@@ -13,7 +13,7 @@ A Passionate Software Developer
 ---
 
 - 🌱 I’m currently working on **My Bachelor Project**
-- 💻 I’m currently learning **Machine Learning and Hardware Integration**
+
 
 ---
 
