@@ -13,7 +13,7 @@ A Passionate Software Developer
 ---
 
 - 🌱 I’m currently working on **My Bachelor Project**
-- 🛠️ I’m currently learning **NLP and Hardware Integration with Software**
+- 💻 I’m currently learning **Machine Learning and Hardware Integration**
 
 ---
 
@@ -22,6 +22,10 @@ A Passionate Software Developer
 
 ---
 
+### 🔝 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrahman2501&layout=compact&theme=radical)
+
+---
 
 ### 🛠️ Contributions
 | **Total Contributions** | **Current Streak** | **Longest Streak** |
@@ -31,16 +35,39 @@ A Passionate Software Developer
 ---
 
 ### 🛠️ Languages and Tools
-<div>
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/>
-</div>
+#### Programming Languages:
+- Java, Python, C/C++, SQL, NoSQL, JavaScript, TypeScript, PHP, Dart
 
+#### Web Development:
+- HTML, CSS, Bootstrap, Angular, Next.js, Node.js, React.js, MERN, NestJS, Laravel
+
+#### Mobile Development:
+- Flutter, Firebase
+
+#### Databases:
+- MongoDB, Cassandra, DynamoDB, PostgreSQL, MySQL
+
+#### Big Data:
+- Spark SQL, Spark DataFrame, Spark ML, Kafka
+
+#### Other Tools:
+- Git, Data Structures, Algorithms, REST APIs, OOP, MS Office
+
+---
+
+### 🏗️ Featured Projects
+- **Plastic Pallets Website:** E-commerce platform with product listings, authentication, and order management.
+  - **Technologies:** Next.js, NestJS, MongoDB, Kafka
+
+- **Help Desk Application:** Role-based Help Desk system with ticketing and analytics.
+  - **Technologies:** MERN Stack
+
+- **Machine Learning Project:** Image classification using CLIP and Fisher Algorithm.
+  - **Technologies:** Python, CLIP, PyTorch
+
+- **Online Car Showroom:** Modern platform for showcasing cars online.
+  - **Technologies:** Angular, Laravel
+
+---
+
+Feel free to connect with me on [LinkedIn](https://linkedin.com/in/abdelrahman-rashwan).
